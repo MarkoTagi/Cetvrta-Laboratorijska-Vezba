@@ -1,0 +1,3 @@
+ls_test.txt
+zadatak3
+zadatak3.c
